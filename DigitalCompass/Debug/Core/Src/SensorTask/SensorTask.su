@@ -1,0 +1,3 @@
+../Core/Src/SensorTask/SensorTask.c:46:6:SensorTask	48	static
+../Core/Src/SensorTask/SensorTask.c:92:13:SensorTaskBuildRequest	24	static
+../Core/Src/SensorTask/SensorTask.c:135:13:SensorTaskReadCoordinates	64	static

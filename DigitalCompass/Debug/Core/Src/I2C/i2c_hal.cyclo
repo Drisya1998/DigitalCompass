@@ -1,0 +1,10 @@
+../Core/Src/I2C/i2c_hal.c:50:6:i2cHalIdentifyDevice	5
+../Core/Src/I2C/i2c_hal.c:124:13:i2cHalDrawNeedle	2
+../Core/Src/I2C/i2c_hal.c:154:13:i2cHalDrawCompass	2
+../Core/Src/I2C/i2c_hal.c:196:13:i2cHalDrawData	1
+../Core/Src/I2C/i2c_hal.c:267:6:i2cHalDisplayInit	1
+../Core/Src/I2C/i2c_hal.c:333:6:i2cHalChangeDisplayMode	2
+../Core/Src/I2C/i2c_hal.c:360:6:i2cHalReadCoordinate	2
+../Core/Src/I2C/i2c_hal.c:385:6:i2cHalDisplayCoordinates	3
+../Core/Src/I2C/i2c_hal.c:411:6:i2cHalChangeNeedlePosition	2
+../Core/Src/I2C/i2c_hal.c:430:6:i2cHalInitializeDevice	2

@@ -1,0 +1,10 @@
+../Core/Src/I2C/i2c_hal.c:50:6:i2cHalIdentifyDevice	40	static
+../Core/Src/I2C/i2c_hal.c:124:13:i2cHalDrawNeedle	40	static
+../Core/Src/I2C/i2c_hal.c:154:13:i2cHalDrawCompass	24	static
+../Core/Src/I2C/i2c_hal.c:196:13:i2cHalDrawData	32	static
+../Core/Src/I2C/i2c_hal.c:267:6:i2cHalDisplayInit	24	static
+../Core/Src/I2C/i2c_hal.c:333:6:i2cHalChangeDisplayMode	24	static
+../Core/Src/I2C/i2c_hal.c:360:6:i2cHalReadCoordinate	40	static
+../Core/Src/I2C/i2c_hal.c:385:6:i2cHalDisplayCoordinates	24	static
+../Core/Src/I2C/i2c_hal.c:411:6:i2cHalChangeNeedlePosition	24	static
+../Core/Src/I2C/i2c_hal.c:430:6:i2cHalInitializeDevice	32	static

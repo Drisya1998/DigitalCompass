@@ -1,0 +1,6 @@
+../Core/Src/OS/osTask.c:52:6:TaskInit	16	static
+../Core/Src/OS/osTask.c:75:13:osTaskCreate	64	static
+../Core/Src/OS/osTask.c:114:13:CreateUARTMutex	16	static
+../Core/Src/OS/osTask.c:136:6:UARTMutexRelease	16	static
+../Core/Src/OS/osTask.c:155:6:UARTMutexAcquire	16	static
+../Core/Src/OS/osTask.c:174:6:osTaskDelay	16	static

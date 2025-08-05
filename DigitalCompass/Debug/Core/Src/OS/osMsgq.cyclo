@@ -1,0 +1,9 @@
+../Core/Src/OS/osMsgq.c:40:6:osMsgqToDisplayInit	2
+../Core/Src/OS/osMsgq.c:61:6:osMsgqDisplayToControlInit	2
+../Core/Src/OS/osMsgq.c:82:6:osMsgqMessageSendToDisplay	2
+../Core/Src/OS/osMsgq.c:102:6:osMsgqMessageRcvInDisplay	3
+../Core/Src/OS/osMsgq.c:125:6:osMsgqMessageSendToControl	2
+../Core/Src/OS/osMsgq.c:145:6:osMsgqMessageRcvInControl	3
+../Core/Src/OS/osMsgq.c:168:6:osMsgqDisplayToSensorInit	2
+../Core/Src/OS/osMsgq.c:189:6:osMsgqMessageSendToSensor	2
+../Core/Src/OS/osMsgq.c:209:6:osMsgqMessageRcvInSensor	3

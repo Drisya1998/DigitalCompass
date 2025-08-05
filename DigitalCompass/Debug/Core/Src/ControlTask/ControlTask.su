@@ -1,0 +1,2 @@
+../Core/Src/ControlTask/ControlTask.c:42:6:ControlTask	32	static
+../Core/Src/ControlTask/ControlTask.c:85:13:ControlTaskBuildRequest	24	static

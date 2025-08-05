@@ -1,0 +1,12 @@
+../Core/Src/DisplayTask/DisplayTask.c:56:6:DisplayTask	24	static
+../Core/Src/DisplayTask/DisplayTask.c:86:13:DisplayTaskHandleRequests	64	static
+../Core/Src/DisplayTask/DisplayTask.c:133:13:DisplayTaskHandleDisplay	16	static
+../Core/Src/DisplayTask/DisplayTask.c:159:13:DisplayTaskSetAckMsg	24	static
+../Core/Src/DisplayTask/DisplayTask.c:182:13:DisplayTaskProcessRequest	24	static
+../Core/Src/DisplayTask/DisplayTask.c:233:13:DisplayTaskProcessUID	24	static
+../Core/Src/DisplayTask/DisplayTask.c:253:13:DisplayTaskProcessCMD	24	static
+../Core/Src/DisplayTask/DisplayTask.c:301:13:DisplayTaskProcessLength	24	static
+../Core/Src/DisplayTask/DisplayTask.c:321:13:DisplayTaskProcessPayLoad	24	static
+../Core/Src/DisplayTask/DisplayTask.c:360:13:DisplayTaskProcessChecksum	24	static
+../Core/Src/DisplayTask/DisplayTask.c:388:13:DisplayTaskModeSwitch	16	static
+../Core/Src/DisplayTask/DisplayTask.c:419:13:DisplayTaskNeedlehange	16	static
