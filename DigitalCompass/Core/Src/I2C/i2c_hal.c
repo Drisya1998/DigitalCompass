@@ -29,6 +29,7 @@
 
 //*********************Local Variables*****************************************
 extern I2C_HandleTypeDef hi2c1;
+
 //static uint8 pucDisplayBuffer[DISPLAY_WIDTH][DISPLAY_PAGES] = {0};
 static COORDINATES gstCoordinate = {0, 0, 0};
 volatile DISPLAYMODE eCurrentI2CDisplayMode = DISPLAY_MODE_DATA;
